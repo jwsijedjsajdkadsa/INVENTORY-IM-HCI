@@ -1,0 +1,1 @@
+Welcome to the Tara Kape Sa JoMarSes Coffee Shop Inventory System! This project provides a user-friendly interface for managing and tracking coffee shop items, including automatic generation of item codes and inventory history.
